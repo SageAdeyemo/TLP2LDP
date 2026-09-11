@@ -376,9 +376,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Adeyemo Iseoluwa Samuel**
 Department of Cybersecurity, Bowen University
-bu22cyb1002@bowenuniversity.edu.ng
+adeyemo.samuel@bowenun.edu.ng
 
 **Dr. Atanda Oladayo Gbenga** (Supervisor)
 Department of Cybersecurity, Bowen University
 
-For questions about the research, conference presentation, or collaboration on Paper 2 (NDPA compliance engineering) and Paper 3 (anomaly regularization), please open an issue or contact via email.
+For questions about the research or conference presentation please open an issue or contact via email.
